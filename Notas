@@ -1,0 +1,5 @@
+Regresión Poisson
+
+P(Y_i=y_i) = \frac{e^{-\lambda_{i}}\lambda_{i}^{y_i}}{y_i!}
+
+Goal: predict or explain \mu_i = \lambda_i
